@@ -6,8 +6,8 @@ This GitHub repository contains a comprehensive case study exploring socio-econo
 ### Data Dictionary
 The dataset includes the following attributes:
 
-country: Name of the country
-child_mort: Death of children under 5 years of age per 1000 live births
++ country: Name of the country
++ child_mort: Death of children under 5 years of age per 1000 live births
 exports: Exports in % of the GDP per capita
 health: Total spend on health as % of GDP
 imports: Value of imports as % of GDP per capita
