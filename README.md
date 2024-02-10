@@ -8,14 +8,14 @@ The dataset includes the following attributes:
 
 + country: Name of the country
 + child_mort: Death of children under 5 years of age per 1000 live births
-exports: Exports in % of the GDP per capita
-health: Total spend on health as % of GDP
-imports: Value of imports as % of GDP per capita
-income: Net income per person
-inflation: Inflation rate %
-life_expec: Average life expectancy in years
-total_fer: Fertility rate - Average children per woman in the country
-gdpp: GDP per capita
++ exports: Exports in % of the GDP per capita
++ health: Total spend on health as % of GDP
++ imports: Value of imports as % of GDP per capita
++ income: Net income per person
++ inflation: Inflation rate %
++ life_expec: Average life expectancy in years
++ total_fer: Fertility rate - Average children per woman in the country
++ gdpp: GDP per capita
 
 ## Project Insights
 
